@@ -6,7 +6,7 @@
     "requires": [
         {
             "id": "railloader",
-            "notBefore": "1.7.2"
+            "notBefore": "1.8.1"
         }
     ],
     "assemblies":  [ "PlutoWearAndTearTweaks" ]
