@@ -2,12 +2,12 @@
     "manifestVersion": 5,
     "id": "PrinceOfPluto.WearAndTearTweaks",
     "name": "Pluto's Wear and Tear Tweaks",
-    "version": "1.0",
+    "version": "$(AssemblyVersion)",
     "requires": [
         {
             "id": "railloader",
             "notBefore": "1.8.1"
         }
     ],
-    "assemblies":  [ "PlutoWearAndTearTweaks" ]
+    "assemblies": [ "PlutoWearAndTearTweaks" ]
 }
